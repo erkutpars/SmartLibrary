@@ -1,10 +1,6 @@
 # SmartLibrary – Akıllı Kütüphane Yönetim Sistemi
 
-**Öğrenci:** Erkut Pars
-**Öğrenci No:** (20230108068)
-**Ders:** Nesneye Dayalı Programlama
-**Öğretim Görevlisi:** Emrah SARIÇİÇEK
-**Teslim Edilen Tarih:** 26.11.2025 21:40
+**Proje Sahibi:** Erkut Pars
 
 ---
 

@@ -1,7 +1,5 @@
 # SmartLibrary – Akıllı Kütüphane Yönetim Sistemi
 
-**Proje Sahibi:** Erkut Pars
-
 ---
 
 ## 📌 Proje Açıklaması
